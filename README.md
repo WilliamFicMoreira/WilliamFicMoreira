@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # William Moreira 👋
 
 <!-- ![React Logo][ReactLogo] -->
-<img src="https://www.svgrepo.com/show/452092/react.svg" width="50" height="50">
--  I’m currently learning React
+<!-- <img src="https://www.svgrepo.com/show/452092/react.svg" width="50" height="50">
+-  I’m currently learning React -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamficmoreira&show_icons=true&theme=dracula)](https://github.com/williamficmoreira/github-readme-stats)
 
